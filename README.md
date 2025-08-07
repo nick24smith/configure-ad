@@ -22,17 +22,11 @@ This tutorial outlines the implementation of on-premises Active Directory within
 - Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
-
-- Step 1
-- Step 2
-- Step 3
-- Step 4
-
 <h2>Deployment and Configuration Steps</h2>
 
+In this lab, we will create two VMs in the same VNet. One is used as the domain controller, while the other VM is the client machine. We change the DC's private IP address to static because it provides Active Directory services to the client Machine. We change the DNS settings on the client machine so it uses the DC as its DNS server. 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img width="840" height="718" alt="image" src="https://github.com/user-attachments/assets/d2b7ac02-348f-4176-8cbe-359629fa0373" />
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
