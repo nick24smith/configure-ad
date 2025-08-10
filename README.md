@@ -43,7 +43,8 @@ Log back into DC-1 and install AD Users and Computers. Promote VM to DC, make a 
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="935" height="314" alt="image" src="https://github.com/user-attachments/assets/8bb7727a-3525-4212-85b8-b1e3a04cd6a2" />
+"/>
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
