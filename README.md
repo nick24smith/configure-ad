@@ -67,7 +67,7 @@ We will create 2 different Organizational Units (OU) named "_ADMINS" and "_EMPLO
 
 </p>
   
-Now you can use "jane_admin" as the administrator account. Join Client-1 to the domain (mydomain.com) by changing Client-1's DNS settings to the DC private IP address in Azure. Then, restart Client-1 from the Azure portal. Your screen should look like the picture below to know it's verified. 
+Now you can use "jane_admin" as the administrator account. Join Client-1 to the domain (mydomain.com) by changing Client-1's DNS settings to the DC private IP address in Azure. Then, restart Client-1 from the Azure portal. Your screen should look like the pictures below to know it's verified. 
 
 </p>
 <br />
@@ -88,7 +88,36 @@ Now you can use "jane_admin" as the administrator account. Join Client-1 to the 
 
 </p>
 <p>
+We have to join Client-1 to the domain next. Go to your system settings, click "About", then click "Rename this PC(advanced)". Now we select "Change", then change your domain to "mydomain.com". Fill in your credentials for "mydomain.com/user". Your VM is going to restart, and then Client-1 will be a part of the domain.
+</p>
+<br />
+
+</p>
+<br />
+
+<p>
+<img <img width="1024" height="582" alt="image" src="https://github.com/user-attachments/assets/195827a5-13b4-4e5c-926c-6b252c0a2712" />
+
+</p>
+<p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
+</p>
+<br />
+
+</p>
+<br />
+
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+</p>
+<br />
+
 </p>
 <br />
 
