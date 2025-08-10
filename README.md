@@ -29,7 +29,7 @@ In this lab, we will create two VMs in the same VNet. One is used as the domain 
 <img width="840" height="718" alt="image" src="https://github.com/user-attachments/assets/d2b7ac02-348f-4176-8cbe-359629fa0373" />
 </p>
 <p>
-Make sure DC-1 has a static IP address. Client-1 will connect to DC-1. To ensure connectivity, we have to ping DC-1 from Client-1. The ping will NOT work at first. Enable ICMPv4 on the firewall of DC-1. Afterwards, you should ping DC-1 successfully from Client-1.
+Make sure DC-1 has a static IP address. Client-1 will connect to DC-1. To ensure connectivity, we have to ping DC-1 from Client-1. The ping will NOT work at first. Enable ICMPv4 on the firewall of DC-1. Then, you should ping DC-1 successfully from Client-1.
 </p>
 <br />
 
