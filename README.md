@@ -34,7 +34,18 @@ Make sure DC-1 has a static IP address. Client-1 will connect to DC-1. To ensure
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="668" height="498" alt="image" src="https://github.com/user-attachments/assets/d3970b6f-2445-4c69-b331-b17d7375d36f" />
+
+</p>
+<p>
+
+  </p>
+<br />
+
+<p>
+<img <img width="532" height="394" alt="image" src="https://github.com/user-attachments/assets/8822c466-7c45-4006-a109-6a2d98ab668a" />
+
+
 </p>
 <p>
   
