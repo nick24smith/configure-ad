@@ -115,7 +115,7 @@ We will set up remote desktop for non-admin users on Client-1. Log in to Client-
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We will use a script to verify that normal users can use Remote Desktop in Client-1. We will input the script into Powershell ISE (run as administrator). After we create the users, they will have access to Remote Desktop in Client-1.
 </p>
 <br />
 
@@ -126,9 +126,38 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="1046" height="812" alt="image" src="https://github.com/user-attachments/assets/1ada433a-18fd-45a1-96a9-368749b13da2" />
+
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+
+</p>
+<br />
+
+</p>
+<br />
+
+</p>
+<br />
+
+<p>
+<img <img width="474" height="267" alt="image" src="https://github.com/user-attachments/assets/59215f4f-b08e-4cb1-8d32-bc448c205677" />
+
+</p>
+<p>
+
+  </p>
+<br />
+
+</p>
+<br />
+
+<p>
+<img <img width="428" height="136" alt="image" src="https://github.com/user-attachments/assets/4a0c79d8-75c6-43d6-9c6c-000ae2e99e33" />
+
+
+</p>
+<p>
+As you can see, the script created a user named "bape.jive" and we were able to access Client-1 as a regular user.
 </p>
 <br />
