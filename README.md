@@ -47,6 +47,7 @@ Log back into DC-1 and install AD Users and Computers. Promote VM to DC, make a 
 
 </p>
 <p>
+
 We will create 2 different Organizational Units (OU) named "_ADMINS" and "_EMPLOYEES". Right click on mydomain.com, click new -> Organizational Unit. Right click on "_ADMINS" folder, click new -> User. For this example, name the user as "Jane Doe" and put her username as "jane_admin" since she will be the admin. Finally, you add her to the domain admins group. 
   
 </p>
