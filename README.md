@@ -100,7 +100,7 @@ We have to join Client-1 to the domain next. Go to your system settings, click "
 
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+We will set up remote desktop for non-admin users on Client-1. Log in to Client-1 as an admin user. Open system properties, click "Open Remote Desktop", then allow "Domain Users" access to Remote Desktop. Now you can log into Client-1 as a normal user. 
 </p>
 <br />
 
@@ -111,7 +111,8 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img <img width="604" height="674" alt="image" src="https://github.com/user-attachments/assets/63145d3b-f1d8-4320-9165-1db5c143984a" />
+
 </p>
 <p>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
