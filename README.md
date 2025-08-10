@@ -88,7 +88,7 @@ Now you can use "jane_admin" as the administrator account. Join Client-1 to the 
 
 </p>
 <p>
-We have to join Client-1 to the domain next. Go to your system settings, click "About", then click "Rename this PC(advanced)". Now we select "Change", then change your domain to "mydomain.com". Fill in your credentials for "mydomain.com/user". Your VM is going to restart, and then Client-1 will be a part of the domain.
+We have to join Client-1 to the domain next. Go to your system settings, click "About", then click "Rename this PC(advanced)". Now we select "Change", then change your domain to "mydomain.com". Fill in your credentials for "mydomain.com/labuser". Your VM is going to restart, and then Client-1 will be a part of the domain.
 </p>
 <br />
 
