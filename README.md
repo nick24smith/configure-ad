@@ -53,7 +53,7 @@ We will create 2 different Organizational Units (OU) named "_ADMINS" and "_EMPLO
 <br />
 
 <p>
-<img <img width="692" height="367" alt="image" src="https://github.com/user-attachments/assets/02d56d64-e21b-4c43-ac85-64a59563b3a9" />
+<img <img width="1079" height="683" alt="image" src="https://github.com/user-attachments/assets/db6cb720-c627-4e39-8745-91c0cb3b208e" " />
 
 </p>
 <p>
