@@ -66,8 +66,9 @@ We will create 2 different Organizational Units (OU) named "_ADMINS" and "_EMPLO
 <img <img width="692" height="367" alt="image" src="https://github.com/user-attachments/assets/c8aec21a-9970-415b-ae4b-d13b134f0e89" />
 
 </p>
-<p
+  
 Now you can use "jane_admin" as the administrator account. Join Client-1 to the domain (mydomain.com) by changing Client-1's DNS settings to the DC private IP address in Azure. Then, restart Client-1 from the Azure portal. Your screen should look like the picture below to know it's verified. 
+
 </p>
 <br />
 
